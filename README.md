@@ -30,16 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=radical" alt="Langages les plus utilisés" />
-</p>
-
----
 
 ### 🚀 Projets Épinglés
 
