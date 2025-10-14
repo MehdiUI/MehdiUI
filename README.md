@@ -31,20 +31,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### 🚀 Projets Épinglés
-
-[Vos projets épinglés apparaîtront ici]
-
----
-
 ### 📫 Me contacter
 
 - **Email** : mehdi.lemaire.pro@gmail.com
 - **Portfolio** : https://portfoliomehdi.vercel.app/
-- **LinkedIn** : [ton lien LinkedIn]
 
----
-
-### 💼 En recherche d'alternance pour un Bac+3 en développement d'applications
-
-*Ouvert aux opportunités sur Lille et alentours*
