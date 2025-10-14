@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Mehdi</h1>
-<h3 align="center">Développeur Full-Stack passionné par l'écosystème JavaScript et WordPress</h3>
+<h3 align="center">Développeur Full-Stack </h3>
 
 ---
 
