@@ -89,17 +89,13 @@ Ce dépôt GitHub me sert de **carnet de bord technique** : j'y publie mes write
 ### 📜 Formation & Certifications
 
 - **Titre Professionnel Concepteur Designer UI/UX** — RNCP niveau 6 (Bac+3)
-- **Formation Développeur Web** — OpenClassrooms (en cours)
+- **Titre Professionnel Développeur Web** — RNCP niveau 5 (Bac+2)
 - **TryHackMe** — Pre-Security ✅ / SOC Level 1 🚧
-- **Cisco Networking Academy** — Introduction to Cybersecurity 🚧
-- **Microsoft SC-900** — Security, Compliance & Identity Fundamentals 🚧
-
 ---
 
 ### 📫 Me contacter
 
 - **Email** : mehdi.lemaire.pro@gmail.com
-- **Portfolio** : https://portfoliomehdi.vercel.app/
 - **LinkedIn** : [Mehdi Lemaire](https://www.linkedin.com/in/mehdi-lemaire)
 
 <p align="center">
