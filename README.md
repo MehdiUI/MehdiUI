@@ -76,8 +76,8 @@ Ce dépôt GitHub me sert de **carnet de bord technique** : j'y publie mes write
 
 | Projet | Description | Statut |
 |---|---|---|
-| `soc-detection-rules` | Règles Sigma mappées MITRE ATT&CK, converties pour Wazuh | 🚧 En cours |
-| `wazuh-lab` | Lab SIEM : agents Linux/Windows, simulations d'attaque, fiches d'incident | 🚧 En cours |
+| `soc-detection-rules` | Règles Sigma mappées MITRE ATT&CK, converties pour Wazuh | ✅ Terminé |
+| `wazuh-lab` | Lab SIEM : agents Linux/Windows, simulations d'attaque, fiches d'incident | ✅ Terminé |
 | `threat-intel-reports` | Qualification d'IOC (VirusTotal, AbuseIPDB) et rapports de threat intel | 🚧 En cours |
 | `incident-response-playbooks` | Playbooks de réponse à incident (phishing, brute force) | 🚧 En cours |
 | `write-ups` | Write-ups TryHackMe / LetsDefend (Wireshark, Splunk, phishing) | 🚧 En cours |
@@ -90,7 +90,7 @@ Ce dépôt GitHub me sert de **carnet de bord technique** : j'y publie mes write
 
 - **Titre Professionnel Concepteur Designer UI/UX** — RNCP niveau 6 (Bac+3)
 - **Titre Professionnel Développeur Web** — RNCP niveau 5 (Bac+2)
-- **TryHackMe** — Pre-Security ✅ / SOC Level 1 🚧
+- **TryHackMe** — Pre-Security ✅ / Cybersécurity101✅ / SOC Level 1 🚧
 ---
 
 ### 📫 Me contacter
