@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Mehdi</h1>
 <h3 align="center">Développeur Full-Stack en transition vers la Cybersécurité Défensive</h3>
-<h4 align="center">Objectif : Analyste SOC (alternance / junior)</h4>
+<h4 align="center">Objectif : Analyste SOC ou Administrateur système et réseaux (alternance / junior)</h4>
 
 <p align="center">
   <a href="mailto:mehdi.lemaire.pro@gmail.com"><img src="https://img.shields.io/badge/Email-mehdi.lemaire.pro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
